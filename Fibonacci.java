@@ -25,10 +25,8 @@ public class Fibonacci {
 	public static int fibo(int n){
 		if (n == 0)
 			return 0;
-			
 		else if(n == 1)
 			return 1;
-		
 		else
 			return (fibo(n-1) + fibo(n-2));
 	}
@@ -40,10 +38,8 @@ public class Fibonacci {
 		
 		if (n == 0)
 			return n * beforeFibo;
-		
 		else if(n == 1)
 			return n * beforeFibo;
-		
 		else{
 			// 이번 호출에서 피보나치 수를 계산
 			currentFibo = beforeFibo + beforebeforeFibo;
@@ -65,13 +61,10 @@ public class Fibonacci {
 		
 		if (n == 0)
 			return n * beforeFibo;
-		
 		else if(n == 1)
 			return n * beforeFibo;
-		
-		else{
+		else
 			return fiboTailRecursion(n-1, beforeFibo + beforebeforeFibo, beforebeforeFibo);
-		}
 	}
 	
 	
