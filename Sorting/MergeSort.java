@@ -23,17 +23,18 @@ class MSort{
 	
 	// Merge two SubArray of arr[]
 	public void merge(int[]arr, int left, int mid, int right){
-		int n1 = mid - left + 1;
-		int n2 = right - mid;
+		int n1 = mid - left + 1;	// 서브어레이의 크기를 확인 (left ~ mid)
+		int n2 = right - mid;		// 서브어레이의 크기를 확인 ((mid)+1 ~ right)
 		
+		// 분할된 서브어레이의 배열 형성
 		int[]L = new int[n1];
 		int[]R = new int[n2];
 		
-		// Copy 
+		// 실제 어레이에서 서브어레이로 값 복사
 		for(int i = 0; i < n1; i++)
-			L[i] = arr[left + i];
+			L[i] = arr[left + i];		// left 부터 차근차근
 		for(int i = 0; i < n2; i++)
-			R[i] = arr[mid + 1 + i];
+			R[i] = arr[(mid+1) + i];	// (mid+1) 부터 차근차근 
 		
 		// 인덱스 초기화
 		int i = 0, j = 0;
