@@ -9,6 +9,7 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
   2-2) <a href="https://www.geeksforgeeks.org/delete-a-given-node-in-linked-list-under-given-constraints/">Delete a given node in Linked List (under given constraints)</a> - **LinkedListExercise2.java**<BR>
 3) **Dynamic Programming**<BR>
 4) **Sorting And Searching**<BR>
+  4-1) <a href="https://www.geeksforgeeks.org/binary-search/">Binary Search</a> - **BinarySearch.java**<BR>
 5) **Tree / Binary Search Tree**<BR>
 6) **Number Theory**<BR>
 7) **BIT Manipulation**<BR>
