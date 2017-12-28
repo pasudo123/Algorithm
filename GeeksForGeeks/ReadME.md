@@ -17,8 +17,8 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
  
 4) **Sorting And Searching**<BR>
   4-1) <a href="https://www.geeksforgeeks.org/binary-search/">Binary Search</a> - **BinarySearch.java**<BR>
-  4-2) <a href="https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/">Search an element in a sorted and rotated array</a> - **SearchElementArray.java**<BR>
-  4-2-1) <a href="https://www.geeksforgeeks.org/find-element-bitonic-array/">Find an element in Bitonic array</a>
+  4-2) <a href="https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/">Search an element in a sorted and rotated array</a> - **SearchElementArray.java, SearchElementArrayBinarySearch.java**<BR>
+  4-2-1) <a href="https://www.geeksforgeeks.org/find-element-bitonic-array/">Find an element in Bitonic array</a> - **SearchElementArrayBinarySearch.java**<BR>
 
   
 5) **Tree / Binary Search Tree**<BR>
