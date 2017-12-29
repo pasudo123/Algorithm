@@ -85,7 +85,9 @@ public class LongestIncresingSubsequence {
 			// 값이 더 크면 해당 리스트에 값을 삽입.
 			if(list.get(list.size() - 1) < array[i])
 				list.add(array[i]);
+			
 			// 값이 더 작으면 discard 및 이전 크기에서 extend 한다.
+			// ** 여기서 파라미터로 보내지는 값이 -1 ~ (size()-1) 이라는 것을 확인 !!! ** 
 			else
 				list.set(getBetweenIndexUseBinarySearch(list, -1, list.size()-1, array[i]), array[i]);
 		}
@@ -96,6 +98,9 @@ public class LongestIncresingSubsequence {
 	
 	// O(nLogn)
 	public static int getBetweenIndexUseBinarySearch(ArrayList<Integer>list, int left, int right, int value){
+		// right 와 left 의 범위를 점차 좁혀나간다.
+		// 여기서 하고자 하는 것은 BinarySearch 처럼 인덱스를 찾는 것이 아닌,
+		// 주어진 파라미터보다 더 큰 값에 대한 인덱스를 찾고 그 인덱스보다 한 단계 낮은 인덱스를 리턴하기 위함이다.
 		while(right - left > 1){
 			int middle = (left + right) / 2;
 			
