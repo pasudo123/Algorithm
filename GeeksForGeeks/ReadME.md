@@ -13,6 +13,9 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
 
   
 3) **Dynamic Programming**<BR>
+  3-1) <a href="https://www.geeksforgeeks.org/longest-common-subsequence/">Longest Common Subsequence</a> -  **LongestCommonSubsequence.java**<BR>
+  3-2-1) <a href="https://www.geeksforgeeks.org/longest-increasing-subsequence/">Longest Increasing Subsequence</a> - **LongestIncresingSubsequence.java**<BR>
+  3-2-2) <a href="https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/">Longest Increasing Subsequence Size (N log N)</a> - **LongestIncresingSubsequence.java**<BR>
 
  
 4) **Sorting And Searching**<BR>
