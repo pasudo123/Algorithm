@@ -6,6 +6,8 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
 
 1) **Graph**<BR>
   1-1) <a href="https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/">Breadth First Search (BFS)</a> - **BreadthFirstTraversal.java**<BR>
+  1-2) <a href="https://practice.geeksforgeeks.org/problems/nodes-at-even-distance/0">Depth First Search (DFS)</a> - **DepthFirshTraversal.java**<BR>
+  1-3) <a href="https://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/">Shortest Path from source to all vertices _Dijkstra_</a> - **ShortestPathDijkstra.java**<BR>
   
 2) **Linked List**<BR>
   2-1) <a href="https://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/">Insertion of a node in Linked List (On the basis of some constraints)</a> - **LinkedListExercise1.java**<BR>
