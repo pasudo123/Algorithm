@@ -37,6 +37,7 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
 7) **BIT Manipulation**<BR>
   7-2) <a href="https://www.geeksforgeeks.org/find-nth-magic-number/">MagicNumber</a> - **FindMagicNumber.java**<BR>
   7-3) <a href="https://www.geeksforgeeks.org/sum-of-bit-differences-among-all-pairs/">Sum of bit differences among all pairs</a> - **SumOfBitDifferences.java**<BR>
+  7-6) <a href="https://www.geeksforgeeks.org/binary-representation-of-a-given-number/">Binary representation of a given number</a> - **BinaryRepresentation.java**<BR>
 
   
 8) **String / Array**<BR>
@@ -44,3 +45,5 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
   8-3) <a href="https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/">Count triplets with sum smaller than a given value</a> - **CountTriplets.java**<BR>
   8-4) <a href="https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion/0">Convert array into Zig-Zag fashion</a> - **ConvertArrayZigZag.java**<BR>
   8-6) <a href="https://www.geeksforgeeks.org/find-pythagorean-triplet-in-an-unsorted-array/">Pythagorean Triplet in an array</a> - **PythagoreanTripletArray.java**<BR>
+  8-7) <a href="https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-1/">Length of the largest subarray with contiguous elements</a> - **LengthLargestSubarray.java**<BR>
+  
