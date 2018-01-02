@@ -32,6 +32,7 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
 
   
 6) **Number Theory**<BR>
+  6-7) <a href="https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/">Basic and Extended Euclidean algorithms</a> - **EuclideanAlgorithm.java**<BR>
 
   
 7) **BIT Manipulation**<BR>
