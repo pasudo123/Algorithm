@@ -29,6 +29,7 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
 
   
 5) **Tree / Binary Search Tree**<BR>
+  5-1) <a href="https://www.geeksforgeeks.org/find-minimum-depth-of-a-binary-tree/">Find Minimum Depth of a Binary Tree</a> - **BinaryTree.java**<BR>
 
   
 6) **Number Theory**<BR>
