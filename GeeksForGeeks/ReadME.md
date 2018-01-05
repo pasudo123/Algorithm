@@ -25,10 +25,12 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
   4-1) <a href="https://www.geeksforgeeks.org/binary-search/">Binary Search</a> - **BinarySearch.java**<BR>
   4-2) <a href="https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/">Search an element in a sorted and rotated array</a> - **SearchElementArray.java, SearchElementArrayBinarySearch.java**<BR>
   4-2-1) <a href="https://www.geeksforgeeks.org/find-element-bitonic-array/">Find an element in Bitonic array</a> - **SearchElementArrayBinarySearch.java**<BR>
-  4-2-2) <a href="https://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/">The Ubiquitous Binary Search</a>
+  4-2-2) <a href="https://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/">The Ubiquitous Binary Search</a><BR>
+  4-3) <a href="https://www.geeksforgeeks.org/bubble-sort/">Bubble Sort</a> - **BubbleSort.java**<BR>
 
   
 5) **Tree / Binary Search Tree**<BR>
+  5-1) <a href="https://www.geeksforgeeks.org/find-minimum-depth-of-a-binary-tree/">Find Minimum Depth of a Binary Tree</a> - **BinaryTree.java**<BR>
 
   
 6) **Number Theory**<BR>
