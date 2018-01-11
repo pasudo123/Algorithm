@@ -43,12 +43,15 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
   
 6) **Number Theory**<BR>
   6-7) <a href="https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/">Basic and Extended Euclidean algorithms</a> - **EuclideanAlgorithm.java**<BR>
+  6-9-1) <a href="https://www.geeksforgeeks.org/chinese-remainder-theorem-set-1-introduction/">Chinese remainder theorem Set1</a><BR>
+  6-9-2) <a href="https://www.geeksforgeeks.org/chinese-remainder-theorem-set-2-implementation/">Chinese remainder theorem Set2</a> - **ChineseRemainderTheorem.java**<BR>
 
   
 7) **BIT Manipulation**<BR>
   7-2) <a href="https://www.geeksforgeeks.org/find-nth-magic-number/">MagicNumber</a> - **FindMagicNumber.java**<BR>
   7-3) <a href="https://www.geeksforgeeks.org/sum-of-bit-differences-among-all-pairs/">Sum of bit differences among all pairs</a> - **SumOfBitDifferences.java**<BR>
   7-6) <a href="https://www.geeksforgeeks.org/binary-representation-of-a-given-number/">Binary representation of a given number</a> - **BinaryRepresentation.java**<BR>
+  7-9) <a href="https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/">Count number of bits to be flipped to convert A to B</a> - **CountNumberOfBits.java**<BR>
 
   
 8) **String / Array**<BR>
