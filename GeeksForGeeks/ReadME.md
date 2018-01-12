@@ -26,6 +26,7 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
   3-1) <a href="https://www.geeksforgeeks.org/longest-common-subsequence/">Longest Common Subsequence</a> -  **LongestCommonSubsequence.java**<BR>
   3-2-1) <a href="https://www.geeksforgeeks.org/longest-increasing-subsequence/">Longest Increasing Subsequence</a> - **LongestIncresingSubsequence.java**<BR>
   3-2-2) <a href="https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/">Longest Increasing Subsequence Size (N log N)</a> - **LongestIncresingSubsequence.java**<BR>
+  3-3) <a href="https://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/">Edit Distance</a> - **EditDistance.java**<BR>
   3-5) <a href="https://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/">Ways to Cover a Distance</a> - **CoverTheDistance.java**<BR>
 
  
@@ -60,4 +61,4 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
   8-4) <a href="https://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/">Convert array into Zig-Zag fashion</a> - **ConvertArrayZigZag.java**<BR>
   8-6) <a href="https://www.geeksforgeeks.org/find-pythagorean-triplet-in-an-unsorted-array/">Pythagorean Triplet in an array</a> - **PythagoreanTripletArray.java**<BR>
   8-7) <a href="https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-1/">Length of the largest subarray with contiguous elements</a> - **LengthLargestSubarray.java**<BR>
-  
+  8-9) <a href="https://www.geeksforgeeks.org/minimum-length-subarray-sum-greater-given-value/">Smallest subarray with sum greater than a given value</a> - **SmallestSubarray.java**<BR>
