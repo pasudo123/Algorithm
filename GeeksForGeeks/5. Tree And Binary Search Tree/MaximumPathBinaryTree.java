@@ -71,7 +71,24 @@ public class MaximumPathBinaryTree {
 	static int getMaxPath(Node node, int[]max){
 		if(node == null)
 			return 0;
-
+		
+		/*
+		 * leftSum : 왼쪽 가지의 데이터 값 전체
+		 * rightSum : 오른쪽 가지의 데이터 값 전체
+		 * max[0] : 현재 루트가 최종 루트인지에 대한 여부를 확인하는 값으로, 
+		 * 현재 노드의 값과 분기하는 왼쪽 가지의 전체 값 그리고 분기하는 오른쪽 가지의 전체 값을 더해서 갱신
+		 * 
+		 * return 되는 내용은 현재의 노드 값에서 분기되는 왼쪽 오른쪽 중에 더 큰 값을 취하기 위함.
+		 * 
+		 * --------------
+		 * 계속 보다 보니 나름의 이해를 가지게 된거 같은데, 
+		 * leftSum 은 분기하는 왼쪽 가지의 데이터 값 전체를 의미하고,
+		 * rightSum 은 분기하는 오른쪽 가지의 데이터 값 전체를 의미하는 것이라고 생각되고
+		 * 이후에 max[0] 이건 현재 루트가 루트노드이면 그대로 갱신되서 리턴될것이고 루트노드가 아니면, 
+		 * 하위 노드의 부모노드에서 값의 갱신 때문에 존재한다고 생각되네요.
+		 * 
+		 * 마지막으로 리턴되는 것은 현재 노드 값에서 분기되는 왼쪽과 오른쪽 가지중에서 더 큰 값을 취하기 위함인거 같구여..  
+		 * */
 		int leftSum = max(getMaxPath(node.left, max), 0);
 		int rightSum = max(getMaxPath(node.right, max), 0);
 		
