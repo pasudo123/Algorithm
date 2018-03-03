@@ -6,7 +6,7 @@ public class Solution {
 	public int[] twoSum(int[] nums, int target) {
 		/**ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 		 * 
-		 * 		 ONE - PASS Using HashTable
+		 * 		 TWO - PASS Using HashTable
 		 * 
 		 * ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ**/
 		
