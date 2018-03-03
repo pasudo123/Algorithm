@@ -38,6 +38,8 @@ reference : <a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview
   4-3) <a href="https://www.geeksforgeeks.org/bubble-sort/">Bubble Sort</a> - **BubbleSort.java**<BR>
   4-5) <a href="https://www.geeksforgeeks.org/merge-sort/">Merge Sort</a> - **MergeSort.java**<BR>
   4-6) <a href="https://www.geeksforgeeks.org/heap-sort/">Heap Sort (Binary Heap)</a> - **HeapSort.java**<BR>
+  4-7) <a href="https://www.geeksforgeeks.org/quick-sort/">Quick Sort</a> - **QuickSort.java**<BR>
+  
 
   
 5) **Tree / Binary Search Tree**<BR>
