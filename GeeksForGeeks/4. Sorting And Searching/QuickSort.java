@@ -70,6 +70,7 @@ public class Main{
     
     // swap(array[i+1], pivot);
     // pivot의 인덱스 고정
+    // 참조형 변수이기 때문에 pivot으로 값을 넣는 것이 아닌 Call By Reference 
     int temp = array[i+1];
     array[i+1] = array[right];
     array[right] = temp;
