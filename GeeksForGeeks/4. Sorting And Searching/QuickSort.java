@@ -59,6 +59,7 @@ public class Main{
         // smallestIndex 
         i++;
         
+        // pivot을 기준으로 i와 j의 인덱스가 다른 경우
         if(i != j){
           int temp = array[i];
           array[i] = array[j];
