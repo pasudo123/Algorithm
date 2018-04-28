@@ -15,6 +15,7 @@ _항상 초심자의 마음으로 모든 문제에 임하여 겸손하게 풀자
 * [ Stack ](http://pasudo123.tistory.com/96?category=744505)
 * [ Queue ](http://pasudo123.tistory.com/100?category=744505)
 * [ Deque ](http://pasudo123.tistory.com/106?category=744505)
+* [ Tree : Tree traversal ](http://pasudo123.tistory.com/145?category=744505)
 
 ### Algorithm
 * [ BFS & DFS ](http://pasudo123.tistory.com/103?category=744505)
