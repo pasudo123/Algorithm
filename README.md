@@ -4,13 +4,14 @@
 * 온라인 저지 사이트 문제 풀이
 * 하나의 언어로만 하지말기
 * 테스트 케이스 충분히 작성
-* __시간복잡도 및 공간복잡도__
-* __하단의 내용은 본인 블로그__
-* __코드는 해당 이름의 폴더__
+* 시간복잡도 및 공간복잡도 생각하는 습관
 
 _문제 푸는 수준에 그치기 않고 이치를 깨닫기 위함_  
 _항상 초심자의 마음으로 모든 문제에 임하여 겸손하게 풀자_
 
+## 소스코드는 디렉토리 참조
+
+## 블로그에 게시된 내용
 ### Data Structure
 * [ Stack ](http://pasudo123.tistory.com/96?category=744505)
 * [ Queue ](http://pasudo123.tistory.com/100?category=744505)
@@ -19,3 +20,4 @@ _항상 초심자의 마음으로 모든 문제에 임하여 겸손하게 풀자
 
 ### Algorithm
 * [ BFS & DFS ](http://pasudo123.tistory.com/103?category=744505)
+* [ Dijkstra's Algorithm ](http://pasudo123.tistory.com/174?category=737548)
