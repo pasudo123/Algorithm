@@ -10,8 +10,7 @@ _문제 푸는 수준에 그치기 않고 이치를 깨닫기 위함_
 _항상 초심자의 마음으로 모든 문제에 임하여 겸손하게 풀자_   
 _**소스코드** 는 해당 디렉토리에 존재_
 
-## BOJ (Baekjoon Online Judge) 
-### BOJ 문제집 (단계별로 풀어보기)
+## BOJ 문제집 (단계별로 풀어보기)
 본인이 작성한 것이 아닌 누군가 정리를 잘해서 만들어놓은 문제집들.
 1. [ Edition pt.1 ](https://www.acmicpc.net/workbook/view/1946)
 2. [ Edition pt.2 ](https://www.acmicpc.net/workbook/view/1947)
@@ -27,12 +26,12 @@ _**소스코드** 는 해당 디렉토리에 존재_
 
 
 ## 블로그에 작성된 내용
-### Data Structure
+#### Data Structure
 * [ Stack ](http://pasudo123.tistory.com/96?category=744505)
 * [ Queue ](http://pasudo123.tistory.com/100?category=744505)
 * [ Deque ](http://pasudo123.tistory.com/106?category=744505)
 * [ Tree : Tree traversal ](http://pasudo123.tistory.com/145?category=744505)
 
-### Algorithm
+#### Algorithm
 * [ BFS & DFS ](http://pasudo123.tistory.com/103?category=744505)
 * [ Dijkstra's Algorithm ](http://pasudo123.tistory.com/174?category=737548)
